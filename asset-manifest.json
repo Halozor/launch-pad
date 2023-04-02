@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/launch-pad/static/css/main.93e25a45.css",
+    "main.js": "/launch-pad/static/js/main.f55adc3a.js",
+    "static/js/787.9bebe1e4.chunk.js": "/launch-pad/static/js/787.9bebe1e4.chunk.js",
+    "static/media/Cymbal.mp3": "/launch-pad/static/media/Cymbal.271c748982318fc683af.mp3",
+    "static/media/Drum.mp3": "/launch-pad/static/media/Drum.a0891fe453333424ceee.mp3",
+    "static/media/Kick.mp3": "/launch-pad/static/media/Kick.ab081a96aeb61cf62029.mp3",
+    "static/media/Snare.mp3": "/launch-pad/static/media/Snare.6cb446ed3f03c4ca60c4.mp3",
+    "index.html": "/launch-pad/index.html",
+    "main.93e25a45.css.map": "/launch-pad/static/css/main.93e25a45.css.map",
+    "main.f55adc3a.js.map": "/launch-pad/static/js/main.f55adc3a.js.map",
+    "787.9bebe1e4.chunk.js.map": "/launch-pad/static/js/787.9bebe1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e25a45.css",
+    "static/js/main.f55adc3a.js"
+  ]
+}
